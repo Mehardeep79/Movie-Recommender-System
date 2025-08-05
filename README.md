@@ -8,6 +8,20 @@ A sophisticated movie recommendation engine built using **Item-Based Collaborati
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/histogram_mean.png" width="100%" alt="Mean"><br>
+      <em>Histogram for Mean of User Ratings</em>
+    </td>
+    <td align="center">
+      <img src="assets/histogram_count.png" width="100%" alt="Count"><br>
+      <em>Histogram for Count of User Ratings</em>
+    </td>
+  </tr>
+</table>
+
+
 ## 🎯 Project Overview
 
 This project implements a collaborative filtering recommendation system that suggests movies to users based on similar user preferences and movie correlations. The system analyzes user rating patterns to identify movies that users with similar tastes have enjoyed.
@@ -28,7 +42,7 @@ The project uses the **MovieLens 100k** dataset, which contains:
 - 🎥 **1,682 movies**
 - 📅 Ratings from **1998**
 
-**Source**: [GroupLens Research](https://grouplens.org/datasets/movielens/100k/)
+**Source**: [GroupLens Research](https://grouplens.org/datasets/movielens/100k/)  or Clone this repo
 
 ## 🛠️ Technologies Used
 
