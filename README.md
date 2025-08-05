@@ -52,7 +52,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/Mehardeep79/Movie-Recommender-System.git
    cd movie-recommender-system
    ```
 
